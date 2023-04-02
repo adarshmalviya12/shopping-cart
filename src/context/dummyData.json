@@ -1,0 +1,130 @@
+ [
+  {
+    "id": "f3b3e2e2-9a9a-45e5-8f37-cf1e1d7265b5",
+    "name": "Ergonomic Steel Shoes",
+    "price": "956.44",
+    "image": "https://www.kasandbox.org/programming-images/avatars/aqualine-tree.png",
+    "inStock": 5,
+    "fastDelivery": false,
+    "ratings": 1
+  },
+
+  {
+    "id": "e77a8401-c6f9-4f53-8e39-8f6327e949e2",
+    "name": "Tasty Concrete Pizza",
+    "price": "571.89",
+    "image": "https://www.kasandbox.org/programming-images/avatars/aqualine-seed.png",
+    "inStock": 3,
+    "fastDelivery": true,
+    "ratings": 3
+  },
+  {
+    "id": "1b7c7258-d1aa-4259-b6df-106e7e0b8a0f",
+    "name": "Practical Rubber Keyboard",
+    "price": "434.27",
+    "image": "https://www.kasandbox.org/programming-images/avatars/cs-hopper-happy.png",
+    "inStock": 0,
+    "fastDelivery": false,
+    "ratings": 4
+  },
+  {
+    "id": "f576764c-b2fb-4dd3-b051-0cfd84cecb69",
+    "name": "Practical Granite Sausages",
+    "price": "231.34",
+    "image": "https://www.kasandbox.org/programming-images/avatars/cs-hopper-cool.png",
+    "inStock": 5,
+    "fastDelivery": true,
+    "ratings": 2
+  },
+  {
+    "id": "8a6c182c-0f50-4c3f-8cb9-390f438d129c",
+    "name": "Small Rubber Chicken",
+    "price": "76.91",
+    "image": "https://www.kasandbox.org/programming-images/avatars/leafers-seedling.png",
+    "inStock": 7,
+    "fastDelivery": true,
+    "ratings": 5
+  },
+  {
+    "id": "e1871a11-6a57-47f5-907a-c0c3a46a9c15",
+    "name": "Tasty Metal Table",
+    "price": "882.48",
+    "image": "https://www.kasandbox.org/programming-images/avatars/leafers-sapling.png",
+    "inStock": 6,
+    "fastDelivery": false,
+    "ratings": 1
+  },
+  {
+    "id": "f22f2d2e-af0c-4c85-8e9e-366d0f29609c",
+    "name": "Handmade Cotton Cheese",
+    "price": "470.49",
+    "image": "https://www.kasandbox.org/programming-images/avatars/leafers-tree.png",
+    "inStock": 5,
+    "fastDelivery": true,
+    "ratings": 5
+  },
+  {
+    "id": "3f3898c6-5d6a-4766-aae6-5b615a34d6ab",
+    "name": "Handmade Rubber Towels",
+    "price": "868.95",
+    "image": "https://www.kasandbox.org/programming-images/avatars/leafers-ultimate.png",
+    "inStock": 0,
+    "fastDelivery": false,
+    "ratings": 2
+  },{
+"id": "3fb3a6d2-7b9e-49a7-9b4b-4c7d1b2c011a",
+"name": "Sleek Concrete Mouse",
+"price": "743.38",
+"image": "https://www.kasandbox.org/programming-images/avatars/piceratops-seed.png",
+"inStock": 7,
+"fastDelivery": true,
+"ratings": 4
+},
+{
+"id": "0e6aeb07-25a4-4d63-88f8-9719b1f93d21",
+"name": "Awesome Metal Fish",
+"price": "180.70",
+"image": "https://www.kasandbox.org/programming-images/avatars/piceratops-seedling.png",
+"inStock": 3,
+"fastDelivery": false,
+"ratings": 5
+},
+{
+"id": "e5a21545-3e98-423f-95ed-ec5df1e0f39a",
+"name": "Handmade Wooden Towels",
+"price": "813.12",
+"image": "https://www.kasandbox.org/programming-images/avatars/piceratops-sapling.png",
+"inStock": 6,
+"fastDelivery": true,
+"ratings": 4
+},
+{
+"id": "b208d34b-3656-4fb6-a0f7-d19a147d94ba",
+"name": "Handmade Steel Chair",
+"price": "338.39",
+"image": "https://www.kasandbox.org/programming-images/avatars/piceratops-tree.png",
+"inStock": 0,
+"fastDelivery": false,
+"ratings": 3
+},
+{
+"id": "5a5c5c08-509f-4568-b1d9-f2df85542c33",
+"name": "Unbranded Metal Keyboard",
+"price": "996.57",
+"image": "https://www.kasandbox.org/programming-images/avatars/piceratops-ultimate.png",
+"inStock": 0,
+"fastDelivery": true,
+"ratings": 1
+},
+{
+"id": "965a7990-7b68-4248-85dd-8f6d82293d2a",
+"name": "Practical Soft Salad",
+"price": "600.34",
+"image": "https://www.kasandbox.org/programming-images/avatars/aqualine-ultimate.png",
+"inStock": 6,
+"fastDelivery": false,
+"ratings": 4
+}
+
+]
+ 
